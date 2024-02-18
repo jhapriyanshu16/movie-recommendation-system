@@ -40,3 +40,16 @@ You can install the required libraries using pip:
 ```bash
 pip install numpy pandas matplotlib nltk scikit-learn
 
+## How to Use
+1. Clone the repository to your local machine.
+2. Download the TMDB 5000 Movie Dataset from the provided link.
+3. Install the required libraries using the provided command.
+4. Run the Python script to execute the movie recommendation system.
+5. Explore the recommendations based on the input movie.
+
+### Usage Example
+```python
+# Example usage of the recommendation system
+recommend('Avatar')
+
+
