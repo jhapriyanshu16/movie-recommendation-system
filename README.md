@@ -38,7 +38,7 @@ The recommendation system is built using a content-based approach, where movies 
 You can install the required libraries using pip:
 
 ```bash
-pip install numpy pandas matplotlib nltk scikit-learn
+pip install numpy pandas matplotlib nltk scikit-learn ```
 
 ## How to Use
 1. Clone the repository to your local machine.
@@ -50,6 +50,6 @@ pip install numpy pandas matplotlib nltk scikit-learn
 ### Usage Example
 ```python
 # Example usage of the recommendation system
-recommend('Avatar')
+recommend('Avatar') ```
 
 
